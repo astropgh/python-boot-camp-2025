@@ -8,7 +8,9 @@
 
 **2024**: [GitHub](https://github.com/astropgh/python-boot-camp-2024) / [website](https://astropgh.github.io/python-boot-camp-2024/)
 
-Welcome to the 2024 AstroPGH Python Boot Camp for summer undergraduate students and early PhD students new to Python.  This 3 day program is designed to help you learn the basics of using Python for astrophysics and physics research.
+**2025**: [GitHub](https://github.com/astropgh/python-boot-camp-2025) / [website](https://astropgh.github.io/python-boot-camp-2025/)
+
+Welcome to the 2025 AstroPGH Python Boot Camp for summer undergraduate students and early PhD students new to Python.  This 3 day program is designed to help you learn the basics of using Python for astrophysics and physics research.
 
 
 ## Boot Camp
@@ -55,21 +57,22 @@ import pandas
 If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews on Slack or via email.
 
 ### Instructors
-- [Helena Richie](https://helenarichie.github.io/): Python Basics
-- [Morgana Iacocca](https://morganafayeiacocca.github.io/): Data Structures, Functions and Modules
-- [Brett Andrews](https://bretthandrews.github.io/): Organizer, Matplotlib
-- Julissa Sarmiento: Numpy 1a
-- Finian Ashmead: Numpy 1b
-- [Ashod Khederlarian](https://ashodkh.github.io/): Numpy 2a
-- [Sedona Price](https://sedonaprice.github.io/): Numpy 2b
-- Cullen Abelson: Numpy 3a
-- [Collin McLeod](https://collinmcleod.github.io/): Numpy 3b
+- [Tori Bonidie](https://toribonidie.github.io/): Python Basics
+- [Collin McLeod](https://collinmcleod.github.io/): Data Structures
+- [Lorena Mezini](https://lmezini.github.io/): Functions and Modules
+- Cullen Abelson: Matplotlib
+- Lauren Elicker: Numpy 1a
+- Nathalie Chicoine: Numpy 1b
+- [Travis Court](https://courtt.github.io/): Numpy 2a
+- Jake Magee: Numpy 2b
+- Finian Ashmead: Numpy 3a
+- Marcos Tamargo-Arizmendi: Numpy 3b
 - Chris Hernandez: Numpy 4a
-- [Yoki Salcedo](https://yoquelbinsalcedo.github.io/): Numpy 4b
+- Julissa Sarmiento: Numpy 4b
 
 ### Schedule
 
-| Time (EDT) | Monday (5/20) | Tuesday (5/21) | Wednesday (5/22) |
+| Time (ET) | Monday (5/19) | Tuesday (5/20) | Wednesday (5/21) |
 |:-----:|:-----:|:-----:|:-----:|
 | 10:00-11:15 | Python Basics | Numpy 1a | Numpy 3a |
 | 11:45-1:00 | Data Structures | Numpy 1b | Numpy 3b |
