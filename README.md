@@ -16,16 +16,13 @@ Welcome to the 2025 AstroPGH Python Boot Camp for summer undergraduate students 
 ## Boot Camp
 ### Installation and Setup
 #### Python
-Please install Python 3 before the Boot Camp. I recommend using the [Anaconda](https://www.anaconda.com/products/individual) package manager **_for Python 3.12_**. Here are Anaconda installation guides:
-- [Windows](https://conda.io/projects/conda/en/stable/user-guide/install/windows.html)
-- [macOS](https://conda.io/projects/conda/en/stable/user-guide/install/macos.html)
-- [linux](https://conda.io/projects/conda/en/stable/user-guide/install/linux.html)
+Please install Python 3 before the Boot Camp. I recommend using [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) **_for Python 3.12_**. Here are Miniconda installation guides:
+- [Windows](https://www.anaconda.com/docs/getting-started/miniconda/install#windows-installation)
+- [macOS/linux](https://www.anaconda.com/docs/getting-started/miniconda/install#macos-linux-installation)
 
+To avoid licensing issues, we want to switch the `conda` channel from `defaults` to `conda-forge`. Here's a step-by-step guide to do this: [Miniconda + conda-forge setup guide](https://dev.to/kaamisan/using-miniconda-with-conda-forge-to-avoid-anaconda-licensing-issues-5hkj) (though please use python 3.12).
 
-Next you need to start conda (which depends on your OS), so I suggest following this guide: [How to start Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#starting-conda)
-
-
-Then install the following packages by copy and pasting the following lines into the Anaconda prompt (search for ''Anaconda Navigator'') or terminal:
+Then install the following packages by copy and pasting the following lines into the terminal:
 ```bash
 conda install numpy scipy pandas matplotlib astropy jupyter ipython
 conda install -c conda-forge jupyterlab
@@ -34,7 +31,7 @@ pip install ipympl
 
 If you have trouble with installing Jupyter Lab, see [Jupyter Lab installation guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
 
-From the Anaconda prompt or terminal, launch Jupyter Lab (see [Staring Jupyter Lab guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) for more details):
+From the terminal, launch Jupyter Lab (see [Staring Jupyter Lab guide](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) for more details):
 ```bash
 jupyter lab
 ```
