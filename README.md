@@ -54,8 +54,8 @@ import pandas
 If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews on Slack or via email.
 
 ### Instructors
-- [Tori Bonidie](https://toribonidie.github.io/): Python Basics
-- [Collin McLeod](https://collinmcleod.github.io/): Data Structures
+- [Collin McLeod](https://collinmcleod.github.io/): Python Basics
+- [Tori Bonidie](https://toribonidie.github.io/): Data Structures
 - [Lorena Mezini](https://lmezini.github.io/): Functions and Modules
 - Cullen Abelson: Matplotlib
 - Lauren Elicker: Numpy 1a
