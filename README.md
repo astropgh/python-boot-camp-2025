@@ -55,7 +55,7 @@ If you are having difficulties with installation, please do not hesitate to reac
 
 ### Instructors
 - [Collin McLeod](https://collinmcleod.github.io/): Python Basics
-- [Tori Bonidie](https://toribonidie.github.io/): Data Structures
+- [Tori Bonidie](https://toribonidie.github.io/): Data Structures and Control Flow
 - [Lorena Mezini](https://lmezini.github.io/): Functions and Modules
 - Cullen Abelson: Matplotlib
 - Lauren Elicker: Numpy 1a
@@ -72,7 +72,7 @@ If you are having difficulties with installation, please do not hesitate to reac
 | Time (ET) | Monday (5/19) | Tuesday (5/20) | Wednesday (5/21) |
 |:-----:|:-----:|:-----:|:-----:|
 | 10:00-11:15 | Python Basics | Numpy 1a | Numpy 3a |
-| 11:45-1:00 | Data Structures | Numpy 1b | Numpy 3b |
+| 11:45-1:00 | Data Structures and Control Flow | Numpy 1b | Numpy 3b |
 | 2:00-3:15 | Functions and Modules | Numpy 2a | Numpy 4a |
 | 3:45-5:00 | Matplotlib | Numpy 2b | Numpy 4b |
 
